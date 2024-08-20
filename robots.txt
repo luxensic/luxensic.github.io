@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://luxensic.github.io/sitemap.html.gz
+Sitemap: https://luxensic.github.io/app/sitemap.html.gz
+Sitemap: https://luxensic.github.io/assets/sitemap.html.gz
+Sitemap: https://luxensic.github.io/css/sitemap.html.gz
+Sitemap: https://luxensic.github.io/includes/sitemap.html.gz
+Sitemap: https://luxensic.github.io/item/sitemap.html.gz
+Sitemap: https://luxensic.github.io/src/sitemap.html.gz
